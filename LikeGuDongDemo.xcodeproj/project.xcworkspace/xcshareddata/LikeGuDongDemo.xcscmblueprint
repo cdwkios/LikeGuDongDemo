@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "21b76a66-998f-d746-b771-8224a5fa96dc++6038",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "21b76a66-998f-d746-b771-8224a5fa96dc++6038" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "21b76a66-998f-d746-b771-8224a5fa96dc++6038" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4DD184F1-5281-41B9-B48D-99A727C5194E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "21b76a66-998f-d746-b771-8224a5fa96dc++6038" : "StudentDriver%E5%9B%BE%E7%89%87\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LikeGuDongDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LikeGuDongDemo\/LikeGuDongDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/125.71.30.141:5686\/svn\/haoxueche",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21b76a66-998f-d746-b771-8224a5fa96dc++6038"
+    }
+  ]
+}
